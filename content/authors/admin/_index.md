@@ -51,43 +51,97 @@ education:
     date_start: 2025-09-01
     date_end: 
     summary: |
-      Current research focuses on the impact of artificial intelligence and technological change on labor markets, combining macroeconomic theory with empirical analysis
-  - area: MA Economics
-    institution: Bogazici University
-    date_start: 2021-01-01
-    date_end: 2024-12-31
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      
-  - area: BA Business
-    institution: Bogazici University
-    date_start: 2019-01-01
-    date_end: 2013-12-31
+      GPA: 3.8/4.0
+
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
+      GPA: 3.4/4.0
       
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: ECONOMiST AND PART‑TiME CONSULTANT
-    company_name: IAMECON
-    company_url: 'https://iamecon.com/'
+  - position: Director of Cloud Infrastructure
+    company_name: GenCoin
+    company_url: ''
     company_logo: ''
-    date_start: 2025-07-07
+    date_start: 2021-01-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - Conducted quantitative data analysis and built econometric models to support litigation cases, including antitrust and trade secret disputes
-      - Prepared written reports, data visualizations, and presentations for internal and external stakeholders, ensuring clarity and analytical precision
-      - Utilized advanced data analytics tools to clean, transform, and analyze large datasets; generated actionable insights for expert reports used in litigation support
-  - position: Cloud Engineer
-    company_name: Turkcell
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Backend Software Engineer
+    company_name: X
     company_url: ''
     company_logo: ''
-    date_start: 2019-09-01
-    date_end: 2021-09-31
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Managed deployment, configuration, and administration of Windows/Linux servers, cloud platforms (Azure, AWS)
-      - Monitored system health proactively, participated in 24/7 on‑call support to ensure uptime and resolve critical issues
-      - Collaborated with developers to build and maintain in‑house monitoring tools using Python and DevOps practices
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
+# Skills
+# Add your own SVG icons to `assets/media/icons/`
+skills:
+  - name: Technical Skills
+    items:
+      - name: Python
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Data Science
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: SQL
+        description: ''
+        percent: 40
+        icon: circle-stack
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
+
+languages:
+  - name: English
+    percent: 100
+  - name: Chinese
+    percent: 75
+  - name: Portuguese
+    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -123,4 +177,4 @@ awards:
 
 ## About Me
 
-I am a PhD candidate in Economics at Central European University, with research interests in macroeconomics, labor economics, and political economy. My current work examines the impact of artificial intelligence and technological change on labor markets, combining theoretical modeling with empirical analysis. My long-term goal is to build a career that blends theory, data, and policy insight.
+I'm a PhD candidate in Economics at Central European University, currently in the research phase after completing my coursework and comprehensive exams. My work sits at the intersection of macroeconomics, labor economics, and political economy, with a growing interest in how technological change and institutions shape labor markets and development outcomes. Before academia, I worked in both the private and public sectors, including as a cloud engineer and policy analyst. These experiences gave me a practical lens for thinking about economics and helped me build a solid foundation in coding and data analysis. I’m currently working part-time as a consultant economist at IAMECON, where I contribute to research on market dynamics and policy evaluation. My long-term goal is to build an academic career that blends theory, data, and policy insight.
