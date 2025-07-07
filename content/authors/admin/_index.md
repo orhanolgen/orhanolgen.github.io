@@ -55,8 +55,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: MA Economics
+    institution: Bogazici University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -66,8 +66,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BA Business
+    institution: Bogazici University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -177,4 +177,4 @@ awards:
 
 ## About Me
 
-I'm a PhD candidate in Economics at Central European University, currently in the research phase after completing my coursework and comprehensive exams. My work sits at the intersection of macroeconomics, labor economics, and political economy, with a growing interest in how technological change and institutions shape labor markets and development outcomes. Before academia, I worked in both the private and public sectors, including as a cloud engineer and policy analyst. These experiences gave me a practical lens for thinking about economics and helped me build a solid foundation in coding and data analysis. I’m currently working part-time as a consultant economist at IAMECON, where I contribute to research on market dynamics and policy evaluation. My long-term goal is to build an academic career that blends theory, data, and policy insight.
+I am a PhD candidate in Economics at Central European University, with research interests in macroeconomics, labor economics, and political economy. My current work examines the impact of artificial intelligence and technological change on labor markets, combining theoretical modeling with empirical analysis. My long-term goal is to build a career that blends theory, data, and policy insight.
